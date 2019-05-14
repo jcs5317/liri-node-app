@@ -193,7 +193,6 @@ function movieThis() {
         userInput = "Mr. Nobody"
         console.log('To get liri search for a title your must include: "' + command + '" or go see "Mr. Nobody".')
     }
-
     axios.get("http://www.omdbapi.com/?apikey=trilogy&t=" + userInput)
         .then(function (response) {
             console.log(response.data.Title)
@@ -237,7 +236,15 @@ function movieThis() {
             "\n---------------------------------")
 
             console.log(output)
-
+            fs.appendFile('log.txt', output, 'utf8', function (error) {
+                if (error) {
+                    console.log("Oops! Couldn't write.")
+                }
+                console.log("Yay! Appended data to file.")
+            })
             logActions()
         })
 }
+ 
+        
+

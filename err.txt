@@ -1,0 +1,11 @@
+05/Mo/yyyy 06:05 PM,spotify-this-song,happy,ReferenceError: actionObj is not defined;
+06/Mo/yyyy 06:06 PM,spotify-this-song,stargazing,ReferenceError: actionObj is not defined;
+15/Mo/yyyy 06:15 PM,spotify-this-song,stargazing,ReferenceError: actionObj is not defined;
+15/Mo/yyyy 06:15 PM,spotify-this-song,stargazing kygo,ReferenceError: actionObj is not defined;
+05/13/2019 06:45 PM,spotify-this-song,stargazing kygo,ReferenceError: actionObj is not defined;
+05/14/2019 07:55 AM,spotify-this-song,rivers,ReferenceError: output is not defined;
+05/14/2019 07:56 AM,spotify-this-song,amazing grace,ReferenceError: output is not defined;
+05/14/2019 07:58 AM,spotify-this-song,stargazing kygo,ReferenceError: output is not defined;
+05/14/2019 08:20 AM,spotify-this-song,stargazing,ReferenceError: output is not defined;
+05/14/2019 09:37 AM,spotify-this-song,stargazing,ReferenceError: output is not defined;
+05/14/2019 09:43 AM,spotify-this-song,stargazing,TypeError: Cannot read property 'artists' of undefined;
