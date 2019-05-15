@@ -8,10 +8,10 @@ Typing "node commands" along with the user "input" in the terminal will not only
 ![Image]https://github.com/jcs5317/liri-node-app/blob/master/screenshots/do-what-it-says.JPG
 ### movie-this
 - this command allows users to get movie information from a title input
-![IMAGE] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/movie-this.JPG
+![Image] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/movie-this.JPG
 ### spotify-this-song
 - this command allows users to get song and artist information along with a link to hear a sample
-![IMAGE] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/spotify-this-song.JPG
+![Image] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/spotify-this-song.JPG
 ### concert-this
 - this command allows users to get concert info for an upcoming artist
-![IMAGE] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/concert-this.JPG
+![Image] https://github.com/jcs5317/liri-node-app/blob/master/screenshots/concert-this.JPG
