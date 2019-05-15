@@ -14,4 +14,4 @@ Typing "node commands" along with the user "input" in the terminal will not only
 ./liri-node-app/screenshots/spotify-this-song.JPG
 ### concert-this
 - this command allows users to get concert info for an upcoming artist
-../liri-node-app/screenshots/concert-this.JPG
+../screenshots/concert-this.JPG
