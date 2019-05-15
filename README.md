@@ -5,7 +5,7 @@ Typing "node commands" along with the user "input" in the terminal will not only
 ## Node Commands:
 ### do-what-it-says 
 - this command gives a glimpse of liri and shows info from a preset search file 'random.txt'
-![Image]
+![Image]https://github.com/jcs5317/liri-node-app/blob/master/screenshots/do-what-it-says.JPG
 ### movie-this
 - this command allows users to get movie information from a title input
 ./jcs5317/liri-node-app/screenshots/movie-this.JPG
