@@ -181,7 +181,12 @@ function concertThis() {
                 }else {
                     console.log(`no concert data for ${userInput} was found`)
                 }
-                
+                fs.appendFile('log.txt', output, 'utf8', function (error) {
+                    if (error) {
+                        console.log("Oops! Couldn't write.")
+                    }
+                    console.log("Yay! Appended data to file.")
+                })
                 logActions()
             })
     }
