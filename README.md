@@ -4,7 +4,7 @@
 Typing in the terminal; node commands along with the user input will display search results as well as log the information results to a text file to review:
 ## Commands:
 ### do-what-it-says 
-- this command gives a glimpse of liri can show from a preset search file 'random.txt'
+- this command gives a glimpse of liri and shows info from a preset search file 'random.txt'
 ../jcs5317/liri-node-app/screenshots/do-what-says.JPG
 ### movie-this
 - this command allows users to get movie information from a title input
